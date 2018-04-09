@@ -2,6 +2,7 @@
 
 [Use it here](//kliberty.github.io/markdown-editor)
 
+This is a fork of [jbt/markdown-editor](https://github.com/jbt/markdown-editor). The only change has been the color scheme.
 
 View GitHub Flavoured Markdown guide [here](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf).
 
